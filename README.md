@@ -33,9 +33,9 @@ featuring interactive filtering, metric cards, genre analysis, and a bit of fun.
 ├── Netflix.csv
 ├── README.md
 └── utils/
-├── data_loader.py
-├── filters.py
-└── metrics.py
+    ├── data_loader.py
+    ├── filters.py
+    └── metrics.py
 ```
 
 ## 🧠 Author
