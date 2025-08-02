@@ -39,4 +39,4 @@ featuring interactive filtering, metric cards, genre analysis, and a bit of fun.
 ```
 
 ## 🧠 Author
-Created by [@irchuri](https://github.com/irchuri) — with 🔥LitEnergy and a bit of tomfoolery.
+Created by [@irchuri](https://github.com/irchuri) — with 2 liters of Milkis🍓 and a bit of tomfoolery.
