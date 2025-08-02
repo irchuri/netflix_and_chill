@@ -1,8 +1,12 @@
 from streamlit.testing.v1.element_tree import Dataframe
 import pandas as pd
-from preprocessing import extract_duration_int
 from itertools import combinations
 
+
+def extract_duration_int(df):
+    df = df.copy()
+    df['duration_int'] = df['duration'].apply(lambda x: int(''.join(filter(str.isdigit, str(x)))))
+    return df
 
 def get_rating_distribution(df):
     df = df.copy()
