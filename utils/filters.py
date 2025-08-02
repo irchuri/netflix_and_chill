@@ -1,5 +1,3 @@
-import pandas as pd
-
 
 def apply_filters(df, selected_type, selected_country, selected_genre):
     df = df.copy()
