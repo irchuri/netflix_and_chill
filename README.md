@@ -8,15 +8,15 @@ featuring interactive filtering, metric cards, genre analysis, and a bit of fun.
 ## 🔍 Features
 - Filter by type (Movie / TV Show), country, and genre
 - Visualize rating distribution and content additions over time
-- Analyze top genres and word frequency in descriptions
-- Generate a word cloud from selected data
+- Get top-3 most common pairs of genres
+- See duration distribution
 - Export filtered data to `.xlsx`
 
 ## 🛠 Tech Stack
-- Python 3.x
+- Python 3
 - Streamlit
-- Pandas, NumPy
-- Matplotlib, Seaborn, WordCloud
+- Pandas
+
 
 ## ▶ How to run
 1. Install dependencies:
@@ -39,4 +39,4 @@ featuring interactive filtering, metric cards, genre analysis, and a bit of fun.
 ```
 
 ## 🧠 Author
-Created by [@irchuri](https://github.com/irchuri) — with LitEnergy and a bit of tomfoolery.
+Created by [@irchuri](https://github.com/irchuri) — with 🔥LitEnergy and a bit of tomfoolery.
